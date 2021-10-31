@@ -7,9 +7,11 @@ The purpose of this project was to analyze Hawaiian temperature to determine if 
 ### Results
 
 Summary Statistics for June:
+
 ![june_describe](https://user-images.githubusercontent.com/87910875/139598674-74322b76-3799-4d49-a079-29bf5013fa64.png)
 
 Summary Statistics for Decemeber:
+
 ![dec_describe](https://user-images.githubusercontent.com/87910875/139598694-06b69417-ab8a-44c0-b9a0-14b42e08390a.png)
  
  *
