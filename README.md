@@ -22,5 +22,5 @@ Three Major Points:
 
  * As seen in the images above, the summary of temperature for the month of June and Decemeber are very similar meaning that the overall temperatures in June and December are very similar
  * The results answer the investors question that the store is sustainable for the entire year
- *
+ * The peak frequency of temperature is about 75 degrees farenhieght that occured over 60 times resulting in a perfect temperature for ice cream
 
