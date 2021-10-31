@@ -13,8 +13,14 @@ Summary Statistics for June:
 Summary Statistics for Decemeber:
 
 ![dec_describe](https://user-images.githubusercontent.com/87910875/139598694-06b69417-ab8a-44c0-b9a0-14b42e08390a.png)
- 
- *
- *
+
+Temperature Frequencies for 2017
+
+![temp_bar](https://user-images.githubusercontent.com/87910875/139599123-c05d7ada-ae48-43fc-94ba-14029a57812e.png)
+
+Three Major Points:
+
+ * As seen in the images above, the summary of temperature for the month of June and Decemeber are very similar meaning that the overall temperatures in June and December are very similar
+ * The results answer the investors question that the store is sustainable for the entire year
  *
 
