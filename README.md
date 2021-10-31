@@ -2,7 +2,7 @@
 
 ### Overview 
 
-The purpose of this project was to analyze Hawaiian temperature to determine if openening a surf and ice cream shop will be profitable. A previous ice cream shop on another island went out of business due to bad weather. The owner possibly did not analyze weather patterns before opening his shop. Before opening the new shop, an investor would like to know the temperature data of June and Decemeber to determine if the business will be sustainable for the entire year.
+The purpose of this project was to analyze Hawaiian temperature to determine if opening a surf and ice cream shop will be profitable. A previous ice cream shop on another island went out of business due to bad weather. The owner possibly did not analyze weather patterns before opening his shop. Before opening the new shop, an investor would like to know the temperature data of June and December to determine if the business will be sustainable for the entire year.
 
 ### Results
 
@@ -20,7 +20,7 @@ Temperature Frequencies for 2017
 
 Three Major Points:
 
- * As seen in the images above, the summary of temperature for the month of June and Decemeber are very similar meaning that the overall temperatures in June and December are very similar
+ * As seen in the images above, the summary of temperature for the month of June and December are very similar meaning that the overall temperatures in June and December are very similar
  * The results answer the investors question that the store is sustainable for the entire year
- * The peak frequency of temperature is about 75 degrees farenhieght that occured over 60 times resulting in a perfect temperature for ice cream
+ * The peak frequency of temperature is about 75 degrees fahrenheit that occurred over 60 times resulting in a perfect temperature for ice cream
 
